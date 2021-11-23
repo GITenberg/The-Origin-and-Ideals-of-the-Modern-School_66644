@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '521'
     url: http://www.gutenberg.org/2009/agents/521
     wikipedia: https://en.wikipedia.org/wiki/Joseph_McCabe
+covers:
+- cover_type: archival
+  image_path: 66644-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Ferrer, Francisco
     gutenberg_agent_id: '53902'
     url: http://www.gutenberg.org/2009/agents/53902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66644#The-Origin-and-Ideals-of-the-Modern-School
 gutenberg_issued: '2021-11-01'
 identifiers:
   gutenberg: '66644'
